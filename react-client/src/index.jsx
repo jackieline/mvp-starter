@@ -78,7 +78,7 @@ class App extends React.Component {
     return (
       <div>
        <div>
-          <h1>Bart Helper</h1>
+          <h1>BART Helper</h1>
           <List items={this.state.items}/>
         </div>
         <div>

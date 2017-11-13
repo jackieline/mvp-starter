@@ -1,3 +1,19 @@
 .page {
-	font-family: serif
+	font-family: Serif;
+}
+
+.body {
+	background-color: WhiteSmoke;
+	color: DarkBlue;
+
+}
+
+.title {
+	font-size: 25px;
+}
+
+
+.departing {
+	float: left;
+	padding: 15px;
 }
